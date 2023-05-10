@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   subscription-service-v2:
   - apiVersion: v2
-    appVersion: uat-b3d4930
-    created: "2023-05-10T14:48:03.616807246Z"
+    appVersion: dev-4ab03d2
+    created: "2023-05-10T15:57:47.753236718Z"
     description: A Helm chart for Kubernetes
-    digest: 9f06dd6099f423f16221f8b5e193d2aeec62126204a59a63f30b233fcb7f2308
+    digest: 8b76e9085a12405309eeec329afa4a3937ff7e446f0b05936732e4295fbb2674
     name: subscription-service-v2
     type: application
     urls:
     - https://THG-Commerce.github.io/subscriptions-app-catalog/subscription-service-v2-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-10T14:48:03.605444805Z"
+generated: "2023-05-10T15:57:47.750707137Z"
