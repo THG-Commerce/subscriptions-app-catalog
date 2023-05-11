@@ -3,7 +3,7 @@ entries:
   flyway-init-job:
   - apiVersion: v2
     appVersion: uat-6f79081
-    created: "2023-05-11T13:57:49.902425835Z"
+    created: "2023-05-11T14:05:52.635380266Z"
     description: A Helm chart for Kubernetes
     digest: 70db8c451461b0d0e5f6872d7fdb6c32a3731a745f37aa62ef9626f6f74bdbe2
     name: flyway-init-job
@@ -14,9 +14,9 @@ entries:
   subscription-service-v2:
   - apiVersion: v2
     appVersion: dev-667e012
-    created: "2023-05-11T13:57:49.906121312Z"
+    created: "2023-05-11T14:05:52.639224613Z"
     description: A Helm chart for Kubernetes
-    digest: 3be7a1747d4e483af88918a889f29943364619526ffb5e4f3bfd370fe40e9586
+    digest: 9dc5d773d03b0bd6fb59068f35db852d06bb74081a9f197939523e4ee96fc902
     name: subscription-service-v2
     type: application
     urls:
@@ -24,7 +24,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: dev-4ab03d2
-    created: "2023-05-11T13:57:49.904321375Z"
+    created: "2023-05-11T14:05:52.637441191Z"
     description: A Helm chart for Kubernetes
     digest: 8b76e9085a12405309eeec329afa4a3937ff7e446f0b05936732e4295fbb2674
     name: subscription-service-v2
@@ -32,4 +32,4 @@ entries:
     urls:
     - https://THG-Commerce.github.io/subscriptions-app-catalog/subscription-service-v2-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-11T13:57:49.90023259Z"
+generated: "2023-05-11T14:05:52.634054449Z"
