@@ -3,7 +3,7 @@ entries:
   admin-ui:
   - apiVersion: v2
     appVersion: dev-a55e164
-    created: "2023-06-21T12:15:57.625679666Z"
+    created: "2023-06-21T12:49:08.399568838Z"
     description: A Helm chart for Kubernetes
     digest: d2ac345b4414069abe588496131df14c1d3f07ab7511be12779cb5544cc0d393
     name: admin-ui
@@ -13,7 +13,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: dev-0d65cfd
-    created: "2023-06-21T12:15:57.624964314Z"
+    created: "2023-06-21T12:49:08.398293627Z"
     description: A Helm chart for Kubernetes
     digest: bab89e98a103f3f0de21d52fcbb32ead0a042b9f987514d08309baf1125f2dd9
     name: admin-ui
@@ -23,7 +23,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: dev-afa0758
-    created: "2023-06-21T12:15:57.624168056Z"
+    created: "2023-06-21T12:49:08.397541221Z"
     description: A Helm chart for Kubernetes
     digest: d19cd90477be4c709738feaa08503e71d9b09af991e3d0073cc6776b57d2bac1
     name: admin-ui
@@ -33,7 +33,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: dev-d75ace9
-    created: "2023-06-21T12:15:57.623391999Z"
+    created: "2023-06-21T12:49:08.396806814Z"
     description: A Helm chart for Kubernetes
     digest: 01db871276ebdb0429e80e29a36e86ed9c0426b08c851dae2d47e5b0e85f518b
     name: admin-ui
@@ -43,7 +43,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: dev-d75ace9
-    created: "2023-06-21T12:15:57.622665546Z"
+    created: "2023-06-21T12:49:08.396099708Z"
     description: A Helm chart for Kubernetes
     digest: 8f5ab792273f7110b5fdf5a8690e0ae5e75b0b8370eef401c969f9309b097731
     name: admin-ui
@@ -53,7 +53,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: dev-d75ace9
-    created: "2023-06-21T12:15:57.621843386Z"
+    created: "2023-06-21T12:49:08.395309701Z"
     description: A Helm chart for Kubernetes
     digest: ccb1632bc94eb1a0e01dffe1a7fa92d77b72605bb05593e0f9ea0498ddd3fd8a
     name: admin-ui
@@ -63,8 +63,18 @@ entries:
     version: 0.1.0
   artemis:
   - apiVersion: v2
+    appVersion: 0.3.3
+    created: "2023-06-21T12:49:08.405300588Z"
+    description: A Helm chart for Kubernetes
+    digest: a3f1ba240071ea5aa47fffd84090cf2d93e5674a970a818e0225dc6fdf74fe73
+    name: artemis
+    type: application
+    urls:
+    - https://THG-Commerce.github.io/subscriptions-app-catalog/artemis-0.3.3.tgz
+    version: 0.3.3
+  - apiVersion: v2
     appVersion: 0.3.2
-    created: "2023-06-21T12:15:57.628814696Z"
+    created: "2023-06-21T12:49:08.404871084Z"
     description: A Helm chart for Kubernetes
     digest: 3ed8593d084f62268bb461862570a74bda3fe58ab9ac31f59c17397d1b0c5240
     name: artemis
@@ -74,7 +84,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2023-06-21T12:15:57.628393665Z"
+    created: "2023-06-21T12:49:08.404433181Z"
     description: A Helm chart for Kubernetes
     digest: 3bdfe272496f2998d7db6ea94ce55ea66284ea16cdbec383f6e4c8cf9821b8c4
     name: artemis
@@ -84,7 +94,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2023-06-21T12:15:57.627969834Z"
+    created: "2023-06-21T12:49:08.403975977Z"
     description: A Helm chart for Kubernetes
     digest: bc7cd6287bdaa0e57065d2033861dfafb61ff11ebf2834834c29e8d50f0d19d2
     name: artemis
@@ -94,7 +104,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2023-06-21T12:15:57.627559504Z"
+    created: "2023-06-21T12:49:08.403499673Z"
     description: A Helm chart for Kubernetes
     digest: 94e7d0e53ead3dce6985792fa48eae44333b974b138b9ddc56405ff7eb44be1f
     name: artemis
@@ -104,7 +114,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2023-06-21T12:15:57.627205278Z"
+    created: "2023-06-21T12:49:08.403035869Z"
     description: A Helm chart for Kubernetes
     digest: b4859a75d762a26a98e85eef56026cde4b7397a439b01dc662877fe42ecbbf3d
     name: artemis
@@ -114,7 +124,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2023-06-21T12:15:57.626888155Z"
+    created: "2023-06-21T12:49:08.402705866Z"
     description: A Helm chart for Kubernetes
     digest: 5d687b08d5494747342ca39e3904a2dc3f000fa1decec2deb02343da5112dba4
     name: artemis
@@ -124,7 +134,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2023-06-21T12:15:57.626615935Z"
+    created: "2023-06-21T12:49:08.401551456Z"
     description: A Helm chart for Kubernetes
     digest: 9579fd6cab37075d20b6514e4d3e9c9f4d855c621390452bb8a0f1d4b7567e68
     name: artemis
@@ -134,7 +144,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-06-21T12:15:57.626326614Z"
+    created: "2023-06-21T12:49:08.40091565Z"
     description: A Helm chart for Kubernetes
     digest: 44f888e226fc9cdddf77e69e2efe17455efaa6d37266d3355dfb3c6d13e6b794
     name: artemis
@@ -144,7 +154,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-06-21T12:15:57.626050794Z"
+    created: "2023-06-21T12:49:08.399989842Z"
     description: A Helm chart for Kubernetes
     digest: f6ea658c472046fbb2321528ef41c6011f45454e4cd2ab8b1c35bd1c88cac8d9
     name: artemis
@@ -155,7 +165,7 @@ entries:
   common:
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2023-06-21T12:15:57.629637256Z"
+    created: "2023-06-21T12:49:08.406194596Z"
     description: A Helm chart for Kubernetes
     digest: 612990fead553a105f76b9bcdeb3f990e8edb5e47b91a7a52bc508d4be2264df
     name: common
@@ -165,7 +175,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2023-06-21T12:15:57.629338034Z"
+    created: "2023-06-21T12:49:08.405887993Z"
     description: A Helm chart for Kubernetes
     digest: ab68ca26cef4ee7000e9bf4fca793bc06237d9669bbb3d6d39fa48527b6a6456
     name: common
@@ -175,7 +185,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-06-21T12:15:57.629070414Z"
+    created: "2023-06-21T12:49:08.405591491Z"
     description: A Helm chart for Kubernetes
     digest: f7fa610c06ed00c9c5a05fa473e71d079e0c5e1a2670ac1e224b7205af4a0a84
     name: common
@@ -186,7 +196,7 @@ entries:
   flyway-init-job:
   - apiVersion: v2
     appVersion: dev-cbc9e98
-    created: "2023-06-21T12:15:57.637193808Z"
+    created: "2023-06-21T12:49:08.412153548Z"
     description: A Helm chart for Kubernetes
     digest: 2c2c327f0b466818a0634011a3db7ca8662274546d779199097a259abb9b86d7
     name: flyway-init-job
@@ -196,7 +206,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: dev-cbc9e98
-    created: "2023-06-21T12:15:57.636565362Z"
+    created: "2023-06-21T12:49:08.41131084Z"
     description: A Helm chart for Kubernetes
     digest: c1e56bb268f364ed083ef77ca9b9788db685acead793e99ed5469e15a5159a77
     name: flyway-init-job
@@ -206,7 +216,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: dev-cbc9e98
-    created: "2023-06-21T12:15:57.635930016Z"
+    created: "2023-06-21T12:49:08.410700635Z"
     description: A Helm chart for Kubernetes
     digest: 6432bc5bb6f46c61878e4c2c46cecfdd928023321f8329406c88f0c23b9b4a14
     name: flyway-init-job
@@ -216,7 +226,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: uat-6f79081
-    created: "2023-06-21T12:15:57.635277168Z"
+    created: "2023-06-21T12:49:08.41006133Z"
     description: A Helm chart for Kubernetes
     digest: f5522410297b5398106939fb080116a312337d1f4882a389e806bb71bf57ee6e
     name: flyway-init-job
@@ -226,7 +236,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: uat-6f79081
-    created: "2023-06-21T12:15:57.63462442Z"
+    created: "2023-06-21T12:49:08.409416624Z"
     description: A Helm chart for Kubernetes
     digest: 26c3b4da844d07438877417a747164c2265e1efb6d2ab7653a81da1b367cc157
     name: flyway-init-job
@@ -236,7 +246,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: uat-6f79081
-    created: "2023-06-21T12:15:57.63393287Z"
+    created: "2023-06-21T12:49:08.408789018Z"
     description: A Helm chart for Kubernetes
     digest: 138b5ea9597cd764526116891517804b7673df9a1a7b5cc5c3e53bc7156abd44
     name: flyway-init-job
@@ -246,7 +256,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: uat-6f79081
-    created: "2023-06-21T12:15:57.633197316Z"
+    created: "2023-06-21T12:49:08.408155313Z"
     description: A Helm chart for Kubernetes
     digest: 6a56ba4e1001d0d643f14d7e362a8a4a18bb21567e455cf9420f8e7b2a26138f
     name: flyway-init-job
@@ -256,7 +266,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: uat-6f79081
-    created: "2023-06-21T12:15:57.632183542Z"
+    created: "2023-06-21T12:49:08.407495107Z"
     description: A Helm chart for Kubernetes
     digest: 8cfebe0a0ed5272f1d827fd3df1716d1a30ea72be85644d400975286b874c0f2
     name: flyway-init-job
@@ -266,7 +276,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: uat-6f79081
-    created: "2023-06-21T12:15:57.630949352Z"
+    created: "2023-06-21T12:49:08.406847802Z"
     description: A Helm chart for Kubernetes
     digest: 70db8c451461b0d0e5f6872d7fdb6c32a3731a745f37aa62ef9626f6f74bdbe2
     name: flyway-init-job
@@ -277,7 +287,7 @@ entries:
   subscription-service-v2:
   - apiVersion: v2
     appVersion: dev-77e722e
-    created: "2023-06-21T12:15:57.66361774Z"
+    created: "2023-06-21T12:49:08.436506359Z"
     description: A Helm chart for Kubernetes
     digest: 6ecfd7d5f6f4b3111371f6443a8a217dcb3cf5f9382107f33a3940921592f716
     name: subscription-service-v2
@@ -287,7 +297,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: ng-dev-819426c
-    created: "2023-06-21T12:15:57.660287697Z"
+    created: "2023-06-21T12:49:08.434448941Z"
     description: A Helm chart for Kubernetes
     digest: 8aebad5f11cb165a68675a85941eb7ee380db66c9404dabc70ac8b5a12f7eae4
     name: subscription-service-v2
@@ -297,7 +307,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: dev-57b76b3
-    created: "2023-06-21T12:15:57.656042386Z"
+    created: "2023-06-21T12:49:08.432233122Z"
     description: A Helm chart for Kubernetes
     digest: 85a0488be894e6301ece313caa0a0750d61601c9820438b5a7ce0b3df7d7ed45
     name: subscription-service-v2
@@ -307,7 +317,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: dev-70b9e38
-    created: "2023-06-21T12:15:57.653792222Z"
+    created: "2023-06-21T12:49:08.429940802Z"
     description: A Helm chart for Kubernetes
     digest: 7535903bbe2c3c2d8c53cfed592611747ab05035ef156ea87086739195f8694b
     name: subscription-service-v2
@@ -317,7 +327,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: dev-eb7ec29
-    created: "2023-06-21T12:15:57.651606962Z"
+    created: "2023-06-21T12:49:08.427567381Z"
     description: A Helm chart for Kubernetes
     digest: 58e1a0e604d68d95c366182f9453ee7f798b55897ce03cf8ce2c9e4f42333f2b
     name: subscription-service-v2
@@ -327,7 +337,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: dev-eb7ec29
-    created: "2023-06-21T12:15:57.649467206Z"
+    created: "2023-06-21T12:49:08.424606656Z"
     description: A Helm chart for Kubernetes
     digest: 2e22712a1e6f68fdc2de5eb605f6574c72d27af744b67590115333e55c9338e6
     name: subscription-service-v2
@@ -337,7 +347,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: dev-667e012
-    created: "2023-06-21T12:15:57.647277945Z"
+    created: "2023-06-21T12:49:08.421981833Z"
     description: A Helm chart for Kubernetes
     digest: 90eba3fb404605a1d1041f2dee26f6b631d5bda02cfeeed81a2108931d092754
     name: subscription-service-v2
@@ -347,7 +357,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: dev-667e012
-    created: "2023-06-21T12:15:57.644507043Z"
+    created: "2023-06-21T12:49:08.419822914Z"
     description: A Helm chart for Kubernetes
     digest: dedfbe853dfea1932da3e6082f533b75b30d85dd794bd8ecbd8f527d7dd140f3
     name: subscription-service-v2
@@ -357,7 +367,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: dev-667e012
-    created: "2023-06-21T12:15:57.641404916Z"
+    created: "2023-06-21T12:49:08.417694996Z"
     description: A Helm chart for Kubernetes
     digest: 9dc5d773d03b0bd6fb59068f35db852d06bb74081a9f197939523e4ee96fc902
     name: subscription-service-v2
@@ -367,7 +377,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: dev-4ab03d2
-    created: "2023-06-21T12:15:57.639302862Z"
+    created: "2023-06-21T12:49:08.415504177Z"
     description: A Helm chart for Kubernetes
     digest: 8b76e9085a12405309eeec329afa4a3937ff7e446f0b05936732e4295fbb2674
     name: subscription-service-v2
@@ -375,4 +385,4 @@ entries:
     urls:
     - https://THG-Commerce.github.io/subscriptions-app-catalog/subscription-service-v2-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-21T12:15:57.619217494Z"
+generated: "2023-06-21T12:49:08.394326993Z"
